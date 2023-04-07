@@ -1,0 +1,5 @@
+pandas==1.5.3
+snowflake==0.0.3
+snowflake_connector_python==3.0.1
+SQLAlchemy==1.4.47
+sqlite3
