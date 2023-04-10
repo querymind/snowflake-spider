@@ -1,6 +1,6 @@
 # Introduction 
 
-This is a repo which includes script to run Spider SQL benchmark (https://yale-lily.github.io/spider) on Snowflake database. Details can be found on blogpost (LINK)
+This is a repo which includes script to run Spider SQL benchmark (https://yale-lily.github.io/spider) on Snowflake database. Details can be found on blogpost (https://medium.com/querymind/gpt-4s-sql-mastery-2cd1f3dea543)
 
 # How to run Spider on Snowflake
 
